@@ -1,4 +1,4 @@
-# Todo-App (React)   :tw-1f4c3:
+# Todo-App (React)   :blue_book:
 
 My React Todo-List App (#Simo Edwin
 developedbyed)
