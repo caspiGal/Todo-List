@@ -1,6 +1,7 @@
 # Todo-App (React) 
 
-Complete JavaScript Coure - Udemy 
+My React Todo-List App (#Simo Edwin
+developedbyed)
 
 Play --> [Click Here](https://my-todolist-react-app.herokuapp.com/).
 
