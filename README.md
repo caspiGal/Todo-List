@@ -1,7 +1,7 @@
 # Todo-App (React)   :blue_book:
 
-My React Todo-List App 
-###### (#Simo Edwin developedbyed)
+## My React Todo-List App 
+###### (Simo Edwin developedbyed)
 
 Play --> [Click Here](https://my-todolist-react-app.herokuapp.com/).
 
